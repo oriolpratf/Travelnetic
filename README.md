@@ -13,3 +13,4 @@ En aquest repositori també hi hem posat un dels datasets que hem creat amb el c
 El dataset que utilitzem nosaltres és el més gran que hem creat fins ara, ja que el programa no és molt ràpid i tardariem bastant en obtenir datasets més grans. Tot i així, aquest dataset té 500.000 vols i és suficientment gran com perquè hi hagi més d'un vol per un mateix origen, destí i dia, pel que ens és molt útil per cercador.
 
 
+Per acabar, també hem pujat al repositori el fitxer "outlier_detector_recommender.ipynb" que és el programa amb el qual trobem els vols amb preus més baixos del normal i els recomanem als usuaris.
