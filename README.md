@@ -1,6 +1,6 @@
 # Travelnetic
 
-Hem decidit crear aquest repositori per posar-hi el codi que ens ha permès crear el dataset que hem estat utilitzant durant tot el projecte i el codi dels recomanadors implementats en el cercador, juntament amb el fitxer necessari per crear aquest dataset.
+Hem decidit crear aquest repositori per posar-hi fitxers d'interès del nostre cercador. Dins el repositori hi podem veure el programa amb el que hem creat el dataset que hem estat utilitzant durant tot el projecte i el codi dels recomanadors implementats en el cercador. També hem penjat l'Excel necessari per crear el dataset i un dels datasets obtinguts amb el nostre programa.
 
 Per començar, el fitxer en el que creem el dataset és el fitxer de Jupyter "CreateFlightDataset.ipynb". Per tal que aquest fitxer funcioni es necessita l'Excel "world_capitals.xlsx", que també es troba en aquest repositori. Aquest Excel té 50 capitals de paísos d'arreu del món (i Barcelona) juntament amb les seves coordenades i altres camps que no son rellevants per nosaltres. Aquestes 50 ciutats son les que poden apareixer com a origen o destí en el nostre dataset. A partir de les coordenades calculem les distàncies entre origen i destí i a partir d'aquesta distància calculem el temps del vol.
 
@@ -11,4 +11,5 @@ Per últim, comentar que el preu del vol es basa sobretot en la duració del vol
 
 En aquest repositori també hi hem posat un dels datasets que hem creat amb el codi comentat anteriorment, s'anomena "dataset_50k.xlsx". Com el seu nom indica, aquest dataset conté 50.000 vols i és el més petit que hem creat. Hem penjat aquest perquè pugueu veure un exemple de com és el dataset que utilitzem nosaltres pel projecte, ja que aquest conté els mateixos camps i està creat de la mateixa manera.
 El dataset que utilitzem nosaltres és el més gran que hem creat fins ara, ja que el programa no és molt ràpid i tardariem bastant en obtenir datasets més grans. Tot i així, aquest dataset té 500.000 vols i és suficientment gran com perquè hi hagi més d'un vol per un mateix origen, destí i dia, pel que ens és molt útil per cercador.
+
 
