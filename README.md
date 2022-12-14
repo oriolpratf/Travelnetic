@@ -1,4 +1,4 @@
-# Travelnetic
+# README
 
 Hem decidit crear aquest repositori per posar-hi fitxers d'interès del nostre cercador. Dins el repositori hi podem veure el programa amb el que hem creat el dataset que hem estat utilitzant durant tot el projecte i el codi dels recomanadors implementats en el cercador. També hem penjat l'Excel necessari per crear el dataset i un dels datasets obtinguts amb el nostre programa.
 
